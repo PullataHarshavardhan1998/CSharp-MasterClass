@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "CSharp Master
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\DataTypes.csproj", "{B365F505-6EF1-420B-8404-92F56E6602F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{C182E539-7AA3-4CD3-BFED-5A295A7C9DFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B365F505-6EF1-420B-8404-92F56E6602F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B365F505-6EF1-420B-8404-92F56E6602F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B365F505-6EF1-420B-8404-92F56E6602F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C182E539-7AA3-4CD3-BFED-5A295A7C9DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C182E539-7AA3-4CD3-BFED-5A295A7C9DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C182E539-7AA3-4CD3-BFED-5A295A7C9DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C182E539-7AA3-4CD3-BFED-5A295A7C9DFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
